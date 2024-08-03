@@ -181,7 +181,7 @@
 .tv1{
     position: relative;
     width:600px;
-    border: 2px solid red;
+    /* border: 2px solid red; */
     /* background: red; */
 }
 .first img{
